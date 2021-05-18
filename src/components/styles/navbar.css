@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Old+Standard+TT&display=swap');
+.fontStyle{
+    font-family: TCommons;
+}
+.buttonS{
+    height: 27px;
+    width: 75px;
+    border-radius: 10px;
+}
