@@ -1,5 +1,5 @@
 # dashboard_prototype
-Prototipo de un dashboard para LF
+Prototipo de un dashboard para Lastfood
 
 # Getting Started with Create React App
 
